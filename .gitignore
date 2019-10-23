@@ -17,6 +17,9 @@
 /storage/*
 !/storage/.keep
 
+#I don't want to show my config
+/config/credentials.yml.enc
+
 /node_modules
 /yarn-error.log
 
